@@ -1,4 +1,4 @@
-which implements a machine-learning pipeline for detecting malicious vs. benign web requests using XGBoost.
+the waf_xgboos model which implements a machine-learning pipeline for detecting malicious vs. benign web requests using XGBoost.
 
 The model is trained on a WAF (Web Application Firewall) dataset that includes URL request logs and labels indicating whether each entry is malicious or benign.
 
